@@ -1,0 +1,45 @@
+# Blood Blade — Omarchy Theme
+# Inspired by crimson ink, void darkness, and deep-water teal
+# Drop this folder into ~/.config/omarchy/themes/blood-blade/
+# Then run: omarchy-theme-set blood-blade
+
+accent             = "#C41E1E"
+cursor             = "#EAE4D4"
+foreground         = "#EAE4D4"
+background         = "#0A0A0C"
+selection_foreground = "#0A0A0C"
+selection_background = "#C41E1E"
+
+# 16 ANSI colors
+# color0  = black (void)
+color0  = "#0A0A0C"
+# color1  = red (blood)
+color1  = "#C41E1E"
+# color2  = green → teal-glow
+color2  = "#2D7A6E"
+# color3  = yellow → amber-bone
+color3  = "#C08040"
+# color4  = blue → deep teal
+color4  = "#1A4E48"
+# color5  = magenta → slate-violet
+color5  = "#9090CC"
+# color6  = cyan → teal-mid
+color6  = "#3A9A8A"
+# color7  = white → bone
+color7  = "#EAE4D4"
+# color8  = bright black (void-soft)
+color8  = "#1A1A22"
+# color9  = bright red (crimson)
+color9  = "#E8273A"
+# color10 = bright green → teal-bright
+color10 = "#4ABAAA"
+# color11 = bright yellow → bone-warm
+color11 = "#D4A870"
+# color12 = bright blue → teal-glow
+color12 = "#2D7A6E"
+# color13 = bright magenta → violet-bright
+color13 = "#AAAAEE"
+# color14 = bright cyan → seafoam
+color14 = "#5ACABA"
+# color15 = bright white → bone-bright
+color15 = "#F5F0E4"
